@@ -1,6 +1,4 @@
 
-# Image-Classification
-![Screenshot 2025-05-15 163018](https://github.com/user-attachments/assets/e8a64936-08bb-460a-b49d-53e4529b82bf)
 
 ## Project Overview
 
